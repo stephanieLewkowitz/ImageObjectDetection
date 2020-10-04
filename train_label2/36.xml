@@ -1,0 +1,26 @@
+<annotation>
+	<folder>trainimages</folder>
+	<filename>36.jpg</filename>
+	<path>C:\Users\Stephanie\GitClones\A_Server_MachineLearning\trainimages\36.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5478</width>
+		<height>3652</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>366</xmin>
+			<ymin>557</ymin>
+			<xmax>3100</xmax>
+			<ymax>1479</ymax>
+		</bndbox>
+	</object>
+</annotation>
